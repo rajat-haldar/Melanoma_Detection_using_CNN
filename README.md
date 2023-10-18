@@ -74,7 +74,7 @@ Augmenting the data and countering class imbalance helped in improving the accur
 
 # Contact
 
-Created by [@rahat-haldar] - feel free to contact me!
+Created by [@rajat-haldar] - feel free to contact me!
 
 # License
 
